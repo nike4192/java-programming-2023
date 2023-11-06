@@ -1,4 +1,4 @@
-package tests.test3.shapes;
+package tests.test4.shapes;
 
 /* https://en.wikipedia.org/wiki/Regular_polygon */
 public class RegularPolygon extends AbstractShape {

@@ -1,4 +1,4 @@
-package tests.test3.shapes;
+package tests.test4.shapes;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

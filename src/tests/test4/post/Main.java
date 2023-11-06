@@ -1,4 +1,4 @@
-package tests.test3.post;
+package tests.test4.post;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package tests.test3.post;
+package tests.test4.post;
 
 public class Page {
     private final String title;

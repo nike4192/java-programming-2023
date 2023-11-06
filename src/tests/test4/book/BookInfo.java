@@ -1,4 +1,4 @@
-package tests.test3.book;
+package tests.test4.book;
 
 public class BookInfo {
     private final String title;

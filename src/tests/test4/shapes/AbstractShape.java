@@ -1,4 +1,4 @@
-package tests.test3.shapes;
+package tests.test4.shapes;
 
 public abstract class AbstractShape {
     abstract double calculateArea();

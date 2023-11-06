@@ -1,4 +1,4 @@
-package tests.test3.shapes;
+package tests.test4.shapes;
 
 /* https://en.wikipedia.org/wiki/Ellipse */
 public class Ellipse extends AbstractShape {

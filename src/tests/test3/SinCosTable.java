@@ -1,4 +1,4 @@
-package tests.test2;
+package tests.test3;
 
 public final class SinCosTable {
     private SinCosTable() {}
