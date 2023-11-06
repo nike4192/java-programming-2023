@@ -1,6 +1,4 @@
-import lessons.Interface;
-
-public class Main implements Interface {
+public class Main {
     public static void main(String[] args) {
     }
 }
